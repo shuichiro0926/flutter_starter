@@ -1,17 +1,30 @@
 # flutter_starter
 
-A new Flutter project.
+## IntelliJ 
 
-## Getting Started
+### plugins
 
-This project is a starting point for a Flutter application.
+[Flutter](https://plugins.jetbrains.com/plugin/9212-flutter)
 
-A few resources to get you started if this is your first Flutter project:
+[Dart](https://plugins.jetbrains.com/plugin/6351-dart)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## ios
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_starter
+**open Simulator**
+
+```
+open -a Simulator
+```
+
+## android
+
+**open Emulator**
+
+```
+flutter emulators
+```
+
+```
+flutter emulators --launch Device名
+例: flutter emulators --launch Nexus_5X_API_28
+```
